@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lua">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/citizen/scripting/lua/rdr3_universal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/citizen/scripting/lua/natives_21E43A33.zip!/" />
+      <root url="jar://$PROJECT_DIR$/citizen/scripting/lua/natives_0193D0AF.zip!/" />
+      <root url="jar://$PROJECT_DIR$/citizen/scripting/lua/natives_universal.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
