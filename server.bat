@@ -10,6 +10,5 @@ color 0a
 echo -
 echo MatrixVRP Startando VRPEX..
 echo -
-timeout 5
 start run.cmd +exec server.cfg   
 exit

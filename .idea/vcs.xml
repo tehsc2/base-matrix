@@ -2,5 +2,25 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[essential]/es_extended" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/[ui]/esx_menu_default" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/[ui]/esx_menu_dialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/[ui]/esx_menu_list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_addonaccount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_addoninventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_adminplus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_ambulancejob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_billing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_datastore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_identity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_skin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_society" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/[esx]/esx_vehicleshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/async" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/cron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/gcphone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/mysql-async" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/mysql-async/fivem-mysql-async" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources/skinchanger" vcs="Git" />
   </component>
 </project>
