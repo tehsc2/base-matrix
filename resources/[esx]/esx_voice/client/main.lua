@@ -8,9 +8,9 @@ function drawLevel(r, g, b, a)
 	SetTextDropShadow()
 	SetTextOutline()
 
-	BeginTextCommandDisplayText('STRING')
-	AddTextComponentSubstringPlayerName(_U('voice', voice.level))
-	EndTextCommandDisplayText(0.175, 0.92)
+	--BeginTextCommandDisplayText('STRING')
+	--AddTextComponentSubstringPlayerName(_U('voice', voice.level))
+	--EndTextCommandDisplayText(0.175, 0.92)
 end
 
 AddEventHandler('onClientMapStart', function()

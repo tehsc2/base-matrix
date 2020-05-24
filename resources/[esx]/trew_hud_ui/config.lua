@@ -2,7 +2,7 @@ Config = {}
 
 Config.Locale = 'br'
 
-Config.serverLogo = 'https://i.imgur.com/AcgDL9f.png'
+Config.serverLogo = 'https://i.imgur.com/552hJVc.png'
 
 Config.font = {
 	name 	= 'Montserrat',
@@ -34,7 +34,7 @@ Config.vehicle = {
 	maxSpeed = 240,
 
 	keys = {
-		seatbelt 	= 'K',
+		seatbelt 	= 'G',
 		cruiser		= 'CAPS',
 		signalLeft	= 'LEFT',
 		signalRight	= 'RIGHT',
@@ -52,8 +52,8 @@ Config.ui = {
 	showBlackMoney 		= true,
 	showSocietyMoney	= true,
 
-	showDate 			= true,
-	showLocation 		= true,
+	showDate 			= false,
+	showLocation 		= false,
 	showVoice	 		= true,
 
 	showHealth			= true,
