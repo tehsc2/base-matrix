@@ -1,4 +1,3 @@
 var Config = new Object();
-
-Config.locale = "br"; //Traduções disponives br/cs/en/fr
-Config.closeKeys = [113, 27]; //Matriz de chaves usadas para fechar o inventário. ESC padrão e F2. Verifique https://keycode.info/ para obter seu código de chave
+Config.closeKeys = [113, 27, 90]; //Array of keys used to close inventory. Default ESC and F2. Check https://keycode.info/ to get your key code
+//LANGUAGE CAN BE CHANGED IN ui.html, SEARCH FOR <script src="locales/en.js"></script> AND CHANGE IT THERE
